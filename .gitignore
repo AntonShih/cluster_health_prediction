@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.pkl
+*.joblib
+
+# Virtual environments
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Data
+data/
+!data/README.md
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

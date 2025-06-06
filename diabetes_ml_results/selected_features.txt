@@ -1,0 +1,61 @@
+age
+hypertension
+heart_disease
+bmi
+hbA1c_level
+blood_glucose_level
+HbA1c_Diabetic
+HbA1c_Prediabetic
+Glucose_Diabetic
+Glucose_Prediabetic
+BMI_Overweight
+BMI_Squared
+Age_High_Risk
+Age_Squared
+CVD_Risk
+Smoking_Risk
+Age_BMI_Interaction
+gender_Male
+location_Alaska
+location_Arizona
+location_Arkansas
+location_California
+location_Connecticut
+location_Delaware
+location_Georgia
+location_Guam
+location_Hawaii
+location_Idaho
+location_Illinois
+location_Kansas
+location_Kentucky
+location_Louisiana
+location_Maryland
+location_Massachusetts
+location_Minnesota
+location_Missouri
+location_Nebraska
+location_Nevada
+location_New Hampshire
+location_New York
+location_North Carolina
+location_North Dakota
+location_Oklahoma
+location_Oregon
+location_Puerto Rico
+location_Rhode Island
+location_South Dakota
+location_Tennessee
+location_Texas
+location_United States
+location_Utah
+location_Vermont
+location_Virgin Islands
+location_Virginia
+location_West Virginia
+location_Wisconsin
+location_Wyoming
+smoking_history_current
+smoking_history_ever
+smoking_history_never
+smoking_history_not current
